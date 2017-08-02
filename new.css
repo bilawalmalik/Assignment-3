@@ -1,0 +1,52 @@
+﻿.label{
+    width:50px;
+}
+.navbar-brand {
+    font-size: 40px;
+    font-family: 'Kunstler Script';
+    font-weight: 100;
+}
+.container {
+    
+    background-color:transparent;
+        margin:20px auto;
+}
+container-fluid{
+    margin:20px auto;
+}
+.jumbotron{
+    background-color:transparent;
+}
+}
+.navbar-brand {
+    font-size: 40px;
+    font-family: 'Kunstler Script';
+    font-weight: 100;
+}
+#main{
+    background-image:url(/Images/1.jpg);
+}
+
+#c1{
+    background-color:transparent;
+    border:groove;
+    height:200px;
+}
+#c2{
+    margin:20px auto;
+}
+#p1{
+    text-align:center;
+    font-family:'Vladimir Script';
+    color:whitesmoke;
+    font-size:100px;
+
+}
+#p2{
+    text-align:center;
+    font-size:23px;
+    color:white;
+    font-family:'Times New Roman';
+    position:relative;
+    top:-30px;
+}

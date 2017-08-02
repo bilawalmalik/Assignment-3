@@ -1,0 +1,28 @@
+﻿.customDiv1{
+    margin:3px;
+    min-height:300px;
+    background-color:transparent;
+}
+.customDiv2{
+    margin:3px;
+    min-height:300px;
+    background-color:transparent;
+}
+.container{
+    background-image:url(1.jpg);
+}
+.navbar-brand {
+    font-size: 40px;
+    font-family: 'Kunstler Script';
+    font-weight: 100;
+}
+.lbl{
+    position:relative;
+    left:450px;
+}
+#para1{
+    font-family:'Kunstler Script';
+    font-size:200px;
+    position:relative;
+
+}
